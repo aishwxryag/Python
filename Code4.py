@@ -1,3 +1,5 @@
+#Program to print positive numbers in a list
+
 input_list=[] #to store input numbers
 pst_list=[] #to store positive numbers
 pst_number=0
