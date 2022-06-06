@@ -5,6 +5,7 @@ fsplit = filename.split(".")
 fext=fsplit[1]
 
 #checking commom extensions
+
 if fext=="py":
     print ("The extension of the file is : Python")
 elif fext=="c":
