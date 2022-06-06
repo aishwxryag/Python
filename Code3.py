@@ -1,6 +1,7 @@
 n=int(input("Enter the number of terms for Fibonacci series: "))
 first_term = 0                   #first term of Fibonacci series is always 0
 second_term = 1                  #second term of Fibonacci series is always 1
+
 if n==1:
     print("The Fibonacci series is: ",first_term)
 elif n>1:
