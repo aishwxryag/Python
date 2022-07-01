@@ -9,7 +9,6 @@ def write_into_csv(info_list):
         writer.writerow(info_list)
 
 
-
 if __name__ == '__main__':
     condition = True
     student_num = 1
